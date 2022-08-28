@@ -63,10 +63,5 @@ Com a raiz do diretorio do seu Python, basta deixar o ChromeDrive na pasta raiz 
 
 Com tudo pronto, você pode executar o código em seu interpretador, ou utilizar o <a href='https://pypi.org/project/auto-py-to-exe/'> Auto-Py-To-Exe </a> para criar um arquivo executavél. (Igual é demonstrado no <a href='https://youtu.be/2H9MM_9q_QQ'>vídeo demonstrativo no YouTube </a>)
 
-<h4> Nota </h4>
-<hr>
-<p> Eu deixei pré configurado as configurações default de login, considerando que é o primeiro acesso á ONU ou ela esta com configurações de fabrica.
-No caso deixei padrão admin/admin (Assim como é em diversos roteadores/onus...)
-Como esse projeto foi para um modelo especifico, não vai fazer diferença, mas caso necessite alterar, dentro do arquivo <code> onu_conection </code> na função <code> login() </code> você pode alterar o default.
 
 
